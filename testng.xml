@@ -1,0 +1,12 @@
+<suite name="test guru app">
+
+  <test name="Gure app test">
+
+      <parameter name="browser" value="chrome"/>
+
+      <classes>
+      <class name="com.inetbanking.TestCases.TC_LoginTest_001"/>
+
+      </classes>
+  </test>
+</suite>
